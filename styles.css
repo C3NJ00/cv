@@ -1,0 +1,47 @@
+
+    body {
+      background-color: #8FE3CF;
+    }
+
+    hr {
+      border-color: #0E8388;
+      border-style:  dotted none none;
+      border-width: 5px;
+      width: 10%;
+    }
+
+    h3 {
+    color: #002B5B;
+    text-align: center;
+    }
+
+    h4 {
+    color: #2B4865;
+    text-align: left;
+    width: 50%;
+    }
+
+    h5 {
+    color: #2B4865;
+    text-align: center;
+    width: 100%;
+    }
+
+    p {
+    color: #256D85;
+    text-align: center;
+    width: 90%;
+    }
+
+    li {
+    color: #256D85;
+    text-align: center;
+    width: 100%;
+    }
+
+    table {
+    color: #2E4F4F;
+    text-align: left;
+    width: 100%;
+    }
+
